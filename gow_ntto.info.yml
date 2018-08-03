@@ -1,0 +1,6 @@
+name: GovWisely NTTO Search Block
+description: An experimental module to build a NTTO Search
+package: Custom
+type: module
+version: 1.0
+core: 8.x

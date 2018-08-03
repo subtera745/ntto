@@ -1,0 +1,11 @@
+ntto:
+  css:
+    layout:
+        css/explorer.css: {}
+        https://code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.min.css: { external: true, attributes: { defer: false, async: false } }
+  js:
+    js/bundle.js: {}
+    https://code.jquery.com/jquery-1.12.1.min.js: { external: true, attributes: { defer: false, async: false } }
+    https://code.jquery.com/ui/1.11.4/jquery-ui.min.js: { external: true, attributes: { defer: false, async: false } }
+    js/offbrand.js: {}
+    js/MonthPicker.min.js: {}
